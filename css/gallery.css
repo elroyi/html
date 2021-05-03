@@ -1,0 +1,149 @@
+#top{
+
+    background: blue;
+    width: 100%;
+    height: 100px;
+    border: 1px solid blue;
+
+    
+}
+
+#buttom{
+    
+   background-image: url("./../img/images.jfif");
+   background-repeat: inherit;
+   background-position: center;
+   background-size: cover;
+    width: 100%;
+    height: 598px;
+    
+    border: 1px solid blue;
+
+    
+
+
+}
+
+#buttomin{
+
+    background-color: yellow;
+   
+    width: 21%;
+    height: 328px;
+    margin: 9%;
+    margin-left: 40%;
+    border: 1px solid blue;
+    text-align: center;
+
+    
+
+}
+
+div{
+    
+    display: inline-block;
+    width: 264px;
+    height: 217px;
+    border: 1px solid blue;
+
+    
+}
+
+p{
+    color: white;
+    font-size: 25px;
+    font-style: italic;
+}
+
+#picters{
+
+
+}
+
+span{
+    color: lightblue;
+}
+
+input,select,button{
+    display: inline;
+    text-align: right;
+    margin-top: 7%;
+}
+button{
+    background-color: blue;
+     color: white;
+}
+a{
+    color: white;
+    font-size: 20px;
+    margin-left: 15%;
+    margin-right: -5%;
+}
+img{
+
+   width: 3%;
+   height: 31%;
+  
+ 
+  margin-top: -24%;
+
+ }
+
+ #picters1{
+
+    background-image: url("./../img/ברצלונה.jfif");
+    background-repeat: inherit;
+    background-position: center;
+    background-size: cover;
+ }
+ #picters2{
+
+    background-image: url("./../img/ולנסיה.jfif");
+    background-repeat: inherit;
+    background-position: center;
+    background-size: cover;
+ }
+
+ #picters3{
+
+    background-image: url("./../img/ונציה.jfif");
+    background-repeat: inherit;
+    background-position: center;
+    background-size: cover;
+ }
+
+ #picters4{
+
+    background-image: url("./../img/לונדון.jfif");
+    background-repeat: inherit;
+    background-position: center;
+    background-size: cover;
+ }
+ #picters5{
+
+    background-image: url("./../img/מדריד.jfif");
+    background-repeat: inherit;
+    background-position: center;
+    background-size: cover;
+ }
+
+ #picters6{
+
+    background-image: url("./../img/צרפת.jfif");
+    background-repeat: inherit;
+    background-position: center;
+    background-size: cover;
+ }
+
+ #picters7{
+
+    background-image: url("./../img/רומא.jfif");
+    background-repeat: inherit;
+    background-position: center;
+    background-size: cover;
+ }
+ a:hover{
+     color: chartreuse;
+     
+ }
+ 
